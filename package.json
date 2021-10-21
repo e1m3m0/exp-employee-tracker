@@ -1,0 +1,27 @@
+{
+  "name": "exp-employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee tracker",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e1m3m0/exp-employee-tracker.git"
+  },
+  "author": "Guillermo Mateo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e1m3m0/exp-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/e1m3m0/exp-employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.2"
+  }
+}
